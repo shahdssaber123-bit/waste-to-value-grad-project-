@@ -1,0 +1,9 @@
+{
+  "name": "Waste-to-Value",
+  "short_name": "W2V",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f46a3",
+  "icons": []
+}
